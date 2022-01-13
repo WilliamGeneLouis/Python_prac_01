@@ -1,4 +1,8 @@
 # Python-_prac_01
+#This Document is uesd to Learning some basic algorithm by Python.
+
+
+
 #Binary_search.py
 
 This is a quick way can find a number which you what in a list.
