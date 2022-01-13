@@ -1,5 +1,5 @@
 # Python-_prac_01
-#Binary_search
+#Binary_search.py
 
 This is a quick way can find a number which you what in a list.
 
