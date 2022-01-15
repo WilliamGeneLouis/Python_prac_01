@@ -1,3 +1,11 @@
+<!--
+ * @Author: William
+ * @Date: 2022-01-13 21:13:13
+ * @LastEditTime: 2022-01-15 17:12:21
+ * @LastEditors: William
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: /Python_prac_01/README.md
+-->
 # Python-_prac_01
 ### This Document is uesd to Learning some basic algorithm by Python.
 
@@ -15,4 +23,4 @@ This is a quick way can find a number which you what in a list.
 # 内存的工作原理
     数组和链表是两种基本的存储方式。
 
-## 数组
+## 数组ß
